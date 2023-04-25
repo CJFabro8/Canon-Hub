@@ -1,0 +1,5 @@
+if game.PlaceId == 11943871352 then
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/Canon-Hub/main/Homework%20Printing%20Simulator'),true))()
+elseif game.PlaceId == 5104202731 then
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/Canon-Hub/main/Southwest%20Florida%20Beta'),true))()
+end
